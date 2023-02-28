@@ -1,0 +1,62 @@
+    
+body{
+    font-family: 'Arsenal', sans-serif;
+    background-color: #FAFFE1 
+}
+.Navegador {
+width: 100%;
+text-align: center;
+font-size: 20px;
+background-color: #F8E252;
+}
+.Presentacion { 
+    width: 100%;
+    text-align: center;
+ background-color: #D2FF59;
+}
+#Titulo {
+    font-size: 80px;
+    margin: 2px;
+}
+#sub1 {
+    font-size: 30px;
+    margin: 1px;
+}
+.DatosPersonales {
+    width: 75%;
+    text-align: center;
+    background-color: #BEC49F;
+    font-size: 20px;
+}
+.Foto1 {
+    float: right;
+    width: 25%;
+}
+#FotoCV{
+    width: 270px;
+    height: 250px;
+}
+.fa-solid {
+    color: green;
+}
+.Experiencia {
+    width: 100%;
+    background-color: #BEC49F;
+    font-size: 20px;
+}
+.Rico {
+    width: 100%;
+    text-align: center;
+    background-color: #EAEBAC;
+    font-size: 20px;
+}
+#Video {
+display: none;
+}
+.Final {
+    background-color: #BA8A6D;
+    font-size: 18px;
+}
+.Firma {
+    background-color: #FF5E07;
+}
